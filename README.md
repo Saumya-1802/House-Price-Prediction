@@ -2,6 +2,8 @@
 
 A Flask web application that predicts house prices using an XGBoost regression model trained on the Ames Housing dataset.
 
+### Screenshots
+
 ![WhatsApp Image 2025-07-05 at 12 08 53_add615bb](https://github.com/user-attachments/assets/05592e13-bd4d-49c4-8c4f-2af2954eb9c5)
 
 ![WhatsApp Image 2025-07-05 at 12 09 39_3b2d253e](https://github.com/user-attachments/assets/10710ef2-e3e0-4592-8446-29f9d169eacc)
@@ -11,7 +13,7 @@ A Flask web application that predicts house prices using an XGBoost regression m
 ![WhatsApp Image 2025-07-05 at 12 10 42_026ac12c](https://github.com/user-attachments/assets/782bf367-c515-44a3-b5b7-bacd48616936)
 
 
-🚀 Features
+### 🚀 Features
 
 Predicts house prices based on top 20 features selected via XGBoost feature importance.
 
@@ -23,7 +25,7 @@ Clean, responsive HTML/CSS interface with gradient animations and form validatio
 
 Runs locally via Flask.
 
-⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 Python
 
@@ -37,7 +39,7 @@ Pandas
 
 HTML/CSS
 
-📂 Project Structure
+### 📂 Project Structure
 
 .
 ├── app.py               # Flask app backend
@@ -54,7 +56,7 @@ HTML/CSS
 
 └── requirements.txt     # Python dependencies
 
-🛠️ Setup Instructions
+### 🛠️ Setup Instructions
 
 1️⃣ Clone the repository:
 
@@ -75,7 +77,7 @@ python app.py
 http://127.0.0.1:5000
 
 
-📈 Model Performance
+### 📈 Model Performance
 
 | Metric | Training   | Test        |
 | ------ | ---------- | ----------- |
