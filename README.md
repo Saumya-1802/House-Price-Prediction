@@ -59,6 +59,7 @@ HTML/CSS
 1️⃣ Clone the repository:
 
 git clone https://github.com/Saumya-1802/House-Price-Prediction.git
+
 cd House-Price-Prediction
 
 2️⃣ Install dependencies:
