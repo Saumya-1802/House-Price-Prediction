@@ -41,11 +41,17 @@ HTML/CSS
 
 .
 ├── app.py               # Flask app backend
+
 ├── xgb_model.json       # Saved XGBoost model
+
 ├── model_columns.pkl    # Columns used by the model
+
 ├── templates/
+
 │   ├── form.html        # Input form page
+
 │   └── result.html      # Result display page
+
 └── requirements.txt     # Python dependencies
 
 🛠️ Setup Instructions
